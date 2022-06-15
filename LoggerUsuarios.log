@@ -31,3 +31,1574 @@
 11:27:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7febafa92ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
 11:27:28 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7febafa92ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
 11:27:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7febafa92ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:28:00 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:31:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:31:06 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:31:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f01045520c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:31:06 PM: DEBUG [cursor_del_pool.py:37] Dentro del bloque with
+11:31:06 PM: DEBUG [cursor_del_pool.py:40] [(41, 'ALEJANDRO', 'VAZQUEZ', 'ocicon@gmail.com')]
+11:31:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:31:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:31:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f01045520c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:11:38 AM: DEBUG [Usuario.py:47] 
+            Id Usuario  : 1,
+            Username    : rriffo,
+            Password    : 123qwe
+        
+12:13:21 AM: DEBUG [Usuario.py:47] 
+            Id Usuario  : 1,
+            Username    : rriffo,
+            Password    : 123qwe
+        
+12:13:21 AM: DEBUG [Usuario.py:51] 
+            Id Usuario  : None,
+            Username    : apradena,
+            Password    : algunaClave
+        
+12:14:09 AM: DEBUG [Usuario.py:47] 
+            Id Usuario  : 1,
+            Username    : rriffo,
+            Password    : 123qwe
+        
+12:14:09 AM: DEBUG [Usuario.py:51] 
+            Id Usuario  : None,
+            Username    : apradena,
+            Password    : algunaClave
+        
+12:14:09 AM: DEBUG [Usuario.py:55] 
+            Id Usuario  : 1,
+            Username    : None,
+            Password    : None
+        
+12:14:35 AM: DEBUG [Usuario.py:47] 
+            Id Usuario  : 1,
+            Username    : rriffo,
+            Password    : 123qwe
+        
+12:14:35 AM: DEBUG [Usuario.py:51] 
+            Id Usuario  : None,
+            Username    : apradena,
+            Password    : algunaClave
+        
+12:14:35 AM: DEBUG [Usuario.py:55] 
+            Id Usuario  : 1,
+            Username    : None,
+            Password    : None
+        
+08:26:10 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:26:10 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:26:10 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f11205c60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:26:10 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:30:37 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:30:37 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:30:37 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fbe011fa0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:30:37 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:30:45 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:30:45 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:30:45 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f40099d20c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:30:45 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:31:52 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:31:52 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:31:52 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5a223d60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:31:52 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:31:52 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+08:31:52 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5a223d60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:34:13 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:34:13 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:34:13 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f01ae22a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:34:13 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:34:13 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+08:34:13 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f01ae22a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:34:13 PM: DEBUG [Usuario_dao.py:35] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+08:35:55 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+08:35:55 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+08:35:55 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f90f50fa0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:35:55 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+08:35:55 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+08:35:55 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f90f50fa0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:35:55 PM: DEBUG [Usuario_dao.py:35] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+08:35:55 PM: DEBUG [Usuario_dao.py:35] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : avega,
+            Password    : 
+332211
+        
+09:06:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:06:49 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+09:06:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc2a241a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:06:49 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : cmella,
+            Password    : 997755
+        
+09:06:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:06:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:06:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc2a241a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:06:49 PM: DEBUG [Usuario_dao.py:43] Nuevos registros Insertados 1
+09:06:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:06:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc2a241a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:06:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:06:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:06:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc2a241a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:06:49 PM: DEBUG [Usuario_dao.py:49] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:06:49 PM: DEBUG [Usuario_dao.py:49] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : avega,
+            Password    : 
+332211
+        
+09:06:49 PM: DEBUG [Usuario_dao.py:49] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:13:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:13:51 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:13:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : cmella,
+            Password    : 997755
+        
+10:13:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:13:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:13:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:13:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:13:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:13:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:13:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:13:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:13:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:13:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:13:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:13:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f2e17ffe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:13:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:13:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:13:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : cmella,
+            Password    : 997755
+        
+10:13:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:17:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:17:51 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:17:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+10:17:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:17:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:17:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:17:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:17:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+         
+10:17:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:17:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:17:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:17:51 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:17:51 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:17:51 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:17:51 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f3adf9e60c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:17:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:17:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:17:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : cmella,
+            Password    : 997755
+        
+10:17:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 5,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:17:51 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:18:32 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:32 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:18:32 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+10:18:32 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:32 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:32 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:18:32 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:32 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+10:18:32 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:32 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:32 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:18:32 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:32 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:32 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:32 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5cc4c960c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 5,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 6,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:32 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+10:18:43 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:43 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:18:43 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+10:18:43 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:43 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:43 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:18:43 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:43 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+10:18:43 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:43 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:43 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:18:43 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:43 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:43 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:43 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f975cf1a0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 5,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 6,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 7,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:43 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+10:18:44 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:44 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:18:44 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+10:18:44 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:44 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:44 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:18:44 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:44 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+10:18:44 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:44 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:44 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:18:44 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:44 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:44 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:44 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fde9bcfe0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 5,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 6,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 7,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 8,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:44 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+10:18:45 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:45 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+10:18:45 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [Usuario_dao.py:33] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+10:18:45 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:45 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:45 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [Usuario_dao.py:51] Nuevos registros Insertados 1
+10:18:45 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:45 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [Usuario_dao.py:42] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+10:18:45 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:45 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:45 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [Usuario_dao.py:56] Registro Actualizado 1
+10:18:45 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+10:18:45 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+10:18:45 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+10:18:45 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f7d9d11e0c0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 5,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 6,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 7,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 8,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 9,
+            Username    : pcanario,
+            Password    : 357951
+        
+10:18:45 PM: DEBUG [Usuario_dao.py:61] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:05:25 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:05:25 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:05:25 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f96611beac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:05:25 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:05:25 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:05:25 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f96611beac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:05:25 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:05:25 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f96611beac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:05:25 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:05:25 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:05:25 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f96611beac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:07:28 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:07:28 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:07:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:07:28 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:07:28 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:07:28 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:07:28 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:07:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:07:28 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:07:28 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:07:28 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:07:28 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:07:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 5,
+            Username    : None,
+            Password    : None
+        
+11:07:28 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:07:28 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:07:28 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 1
+11:07:28 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:07:28 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:07:28 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:07:28 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f0197a26ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 10,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 11,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:07:28 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:08:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:08:49 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:08:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:08:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:08:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:08:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:08:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:08:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:08:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:08:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:08:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:08:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:08:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:08:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:08:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:08:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 1
+11:08:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:08:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:08:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:08:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f5e9f1feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 10,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:08:49 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f451a47eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:06 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:06 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:06 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:06 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc3ccdceac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 14,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:06 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f78ac1b2ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 14,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 15,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:07 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:07 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:07 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:07 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7facf024aac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 14,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 15,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 16,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:07 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f08bba2eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 14,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 15,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 16,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 17,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : pcanario,
+            Password    : 357951
+         
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:63] Nuevos registros Insertados 1
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+         
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:68] Registro Actualizado 1
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 11,
+            Username    : None,
+            Password    : None
+        
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:73] Registro Eliminado : 0
+11:09:08 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:09:08 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:09:08 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:09:08 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7faf5290eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 13,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 14,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 15,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 16,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 17,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 18,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:09:08 PM: DEBUG [Usuario_dao.py:78] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:21:57 PM: INFO [menu_app_usuario.py:25] Salimos del Programa.....!
+11:23:18 PM: DEBUG [menu_app_usuario.py:17] Estamos en al Opcion 1
+11:23:24 PM: DEBUG [menu_app_usuario.py:19] Estamos en al Opcion 2
+11:23:26 PM: DEBUG [menu_app_usuario.py:21] Estamos en al Opcion 3
+11:23:28 PM: DEBUG [menu_app_usuario.py:23] Estamos en al Opcion 4
+11:23:30 PM: INFO [menu_app_usuario.py:25] Salimos del Programa.....!
+11:27:31 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:27:31 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:27:31 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7fc5e7d7eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:27:31 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:27:31 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:27:31 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7fc5e7d7eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:27:31 PM: DEBUG [menu_app_usuario.py:19] Usuarios Seleccionado : 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:27:31 PM: DEBUG [menu_app_usuario.py:19] Usuarios Seleccionado : 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:27:31 PM: DEBUG [menu_app_usuario.py:19] Usuarios Seleccionado : 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:27:31 PM: DEBUG [menu_app_usuario.py:19] Usuarios Seleccionado : 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:27:31 PM: DEBUG [menu_app_usuario.py:19] Usuarios Seleccionado : 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:28:49 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:28:49 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:28:49 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f502b5feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:28:49 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:28:49 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:28:49 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f502b5feac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:28:49 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:28:49 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:28:49 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:28:49 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:28:49 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:36:11 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:36:11 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:36:11 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f6454b66ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:36:11 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : avasquezi,
+            Password    : ocicon04
+         
+11:36:11 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:36:11 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:36:11 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f6454b66ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:36:11 PM: INFO [menu_app_usuario.py:25] Nuevos registros Insertados 1
+11:36:35 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:36:35 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f6454b66ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:36:35 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:36:35 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:36:35 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f6454b66ac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:36:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : avasquezi,
+            Password    : ocicon04
+        
+11:41:58 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:41:58 PM: DEBUG [Conexion.py:30] Creación Exitosa de Pool de Conexion...!
+11:41:58 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f6b9af8eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:41:58 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:41:58 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:41:58 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f6b9af8eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+11:41:58 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : avasquezi,
+            Password    : ocicon04
+        
+11:42:23 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+11:42:23 PM: DEBUG [Conexion.py:44] Conexión obtenida desde el Pool de Conexión : <connection object at 0x7f6b9af8eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:42:23 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 19,
+            Username    : alejandro,
+            Password    : alejoi02
+         
+11:42:23 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+11:42:23 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+11:42:23 PM: DEBUG [Conexion.py:51] Regrasa la conexión al Pool ...! <connection object at 0x7f6b9af8eac0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:42:23 PM: DEBUG [menu_app_usuario.py:32] Registro Actualizado 1
+09:00:26 PM: INFO [menu_app_usuario.py:39] Salimos del Programa.....!
+09:00:37 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:00:37 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:00:37 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+09:00:37 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : alejandro,
+            Password    : alejoi02
+        
+09:01:10 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:01:10 PM: DEBUG [Usuario_dao.py:34] Los valores insertados son : 
+            Id Usuario  : None,
+            Username    : gvillagran,
+            Password    : abc235
+         
+09:01:10 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:01:10 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:01:10 PM: INFO [menu_app_usuario.py:25] Nuevos registros Insertados 1
+09:01:13 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:01:13 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:01:13 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : alejandro,
+            Password    : alejoi02
+        
+09:01:13 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 20,
+            Username    : gvillagran,
+            Password    : abc235
+        
+09:01:48 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:01:48 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:01:55 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:01:55 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:01:55 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : alejandro,
+            Password    : alejoi02
+        
+09:01:55 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 20,
+            Username    : gvillagran,
+            Password    : abc235
+        
+09:02:15 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:02:15 PM: DEBUG [Usuario_dao.py:43] Los valores actualizados son : 
+            Id Usuario  : 19,
+            Username    : avasquezi,
+            Password    : alejo22
+         
+09:02:15 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:02:15 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:02:15 PM: DEBUG [menu_app_usuario.py:32] Registro Actualizado 1
+09:02:17 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:02:17 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:02:17 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 20,
+            Username    : gvillagran,
+            Password    : abc235
+        
+09:02:17 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : avasquezi,
+            Password    : alejo22
+        
+09:02:32 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:02:32 PM: DEBUG [Usuario_dao.py:52] Los registro eliminados son : 
+            Id Usuario  : 20,
+            Username    : None,
+            Password    : None
+        
+09:02:32 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:02:32 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:02:32 PM: DEBUG [menu_app_usuario.py:37] Registro Eliminado : 1
+09:02:35 PM: DEBUG [cursor_del_pool.py:13] Inicio del método with __enter__
+09:02:35 PM: DEBUG [cursor_del_pool.py:21] Se ejecuta el método __exit__
+09:02:35 PM: DEBUG [cursor_del_pool.py:27] Se realiza Commit de la transacción :
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 1,
+            Username    : rrifo,
+            Password    : 
+11223344
+
+        
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 3,
+            Username    : cmella,
+            Password    : 997755
+        
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 2,
+            Username    : aperez,
+            Password    : 225544
+        
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 12,
+            Username    : pcanario,
+            Password    : 357951
+        
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 4,
+            Username    : folivares,
+            Password    : 555555
+        
+09:02:35 PM: INFO [menu_app_usuario.py:19] 
+            Id Usuario  : 19,
+            Username    : avasquezi,
+            Password    : alejo22
+        
+09:02:39 PM: INFO [menu_app_usuario.py:39] Salimos del Programa.....!

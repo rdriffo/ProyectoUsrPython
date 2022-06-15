@@ -27,11 +27,11 @@ class Conexion:
                                                         password=cls._PASSWORD,
                                                         port=cls._DB_PORT,
                                                         database=cls._DATABASE)
-                log.debug(f'Creación Exitosa de Pool de Conexion...!')
+                #log.debug(f'Creación Exitosa de Pool de Conexion...!')
                 return cls._pool
             except Exception as e:
-                log.debug(
-                    f'Ocurrio una exepción al obtener el Pool de Conexión...! {e}')
+                #log.debug(
+                 #   f'Ocurrio una exepción al obtener el Pool de Conexión...! {e}')
                 sys.exit()
         else:
             return cls._pool
@@ -41,14 +41,14 @@ class Conexion:
     @classmethod
     def obtenerConexion(cls):
         conexion = cls.obtenerPool().getconn()
-        log.debug(f'Conexión obtenida desde el Pool de Conexión : {conexion}')
+        #log.debug(f'Conexión obtenida desde el Pool de Conexión : {conexion}')
         return conexion
     
     # Método para liberar conexiones y devolerlas al Pool
     @classmethod
     def liberarConexion(cls,conexion):
         cls.obtenerPool().putconn(conexion)
-        log.debug(f'Regrasa la conexión al Pool ...! {conexion}')
+        #log.debug(f'Regrasa la conexión al Pool ...! {conexion}')
 
     @classmethod
     def cerrarConexion(cls):
